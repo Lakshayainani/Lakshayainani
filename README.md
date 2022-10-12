@@ -15,7 +15,7 @@ I am a Software Testing Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - 🔭 I’m working as a Software Testing Engineer.
 - 🌱 Exploring New Technologies.
-- ⚡ In my free time I solve problems on LeetCode, read tech articles and explore new Technologies.
+- ⚡ In my free time I solve problems on LeetCode, geeksforgeeks & read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Lakshaya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshayainani)
 
 ---
