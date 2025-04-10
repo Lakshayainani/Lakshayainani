@@ -76,8 +76,6 @@ I am a passionate Software Testing Engineer <img src="https://media.giphy.com/me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshayainani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lakshayainani&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 ### 🎯 &nbsp;Current Focus :
