@@ -13,7 +13,7 @@
 
 I am a passionate Software Testing Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in ensuring software quality and reliability. I love turning complex problems into simple solutions and ensuring the best user experience.
 
-- 🔭 Currently working as a Software Testing Engineer with expertise in test automation and quality assurance
+- 🔭 Currently working as a *Senior Software Testing Engineer* with expertise in test automation and quality assurance
 - 🌱 Constantly exploring new technologies and methodologies in software testing
 - 💡 Experienced in both manual and automated testing approaches
 - 🎯 Passionate about writing clean, maintainable test code
